@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 #version 1.0.0
 # Site
-title: Hello, it's me.
-subtitle:
-description: 这是我的个人博客
+title: Hi, 
+subtitle: Welcome here
+description: 欢迎访问皮皮璐的博客
 author: Logos
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: assets/myphoto.png
+favicon: assets/chenlu.jpg
 
 # Set default keywords (Use a comma to separate)
 keywords: "Jekyll, NexT"
@@ -153,8 +153,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -216,9 +216,10 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/zijian-rayan
-    CSDN: https://blog.csdn.net/zijian_
-    Master: https://www.universite-paris-saclay.fr/fr/formation/master/m2-systemes-embarques-et-traitement-de-linformation-seti#presentation-m2
+    GitHub: https://github.com/chenjionglu
+    马蜂窝: http://www.mafengwo.cn/u/48964184.html
+    Weibo: https://weibo.com/u/5419839115
+
 
 
 # Social Links Icons
@@ -329,8 +330,8 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: /assets/zijian.png
-  description: 欢迎添加我的微信：
+  qcode: /assets/chenlu.jpg
+  description: 欢迎关注我的微信公众号Aurevoirsalut：
   
 reward_comment: 虽然我觉得没人会打赏，但是放上来吧，说不定呢！
 wechatpay: /assets/wechat-reward-image.png
@@ -607,13 +608,13 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
 three_waves: false
 
 # canvas_lines
-canvas_lines: false
+canvas_lines: true
 
 # canvas_sphere
 canvas_sphere: false
@@ -714,7 +715,7 @@ images: assets/images
 version: 1.0.0
 
 # Author 配置博主信息
-author: '吴子健'
-nickname: '男'
+author: '陈璐'
+nickname: '女'
 bio: '巴黎南大学、巴黎萨克雷大学'
-avatar: 'assets/myphoto.png'
+avatar: 'assets/chenlu.jpg'
