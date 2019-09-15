@@ -219,6 +219,7 @@ social:
     GitHub: https://github.com/chenjionglu
     马蜂窝: http://www.mafengwo.cn/u/48964184.html
     Weibo: https://weibo.com/u/5419839115
+    小红书: https://www.xiaohongshu.com/user/profile/59e4adeb11be1047f8a09a0a?xhsshare=CopyLink&appuid=59e4adeb11be1047f8a09a0a&apptime=1568562973
 
 
 
@@ -330,11 +331,12 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: /assets/chenlu.jpg
-  description: 欢迎关注我的微信公众号Aurevoirsalut：
+  qcode: /assets/my-wechat.jpg
+  description: 欢迎关注我的微信公众号Aurevoirsalut.
+
   
 reward_comment: 虽然我觉得没人会打赏，但是放上来吧，说不定呢！
-wechatpay: /assets/wechat-reward-image.png
+wechatpay: /assets/wechat-reward-image.jpg
 
 
 
