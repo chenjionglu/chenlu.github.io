@@ -1,10 +1,7 @@
 ---
-published: true
-title: 第一篇博客
-category: chat
-tags: 
-  - chat
-layout: post
+title: About
+layout: page
+group:
 ---
 
 <meta name="referrer" content="never">
