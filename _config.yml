@@ -121,6 +121,7 @@ menu:
   #categories: /categories/
   archives: /archives/
   tags: /tags/
+  about: /about/
   #github: /github/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -386,7 +387,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: abbd57dc07e93d3e2cc314e3ce5e77fd
+baidu_analytics: abbd57dc07e93d3e2cc314e3ce5e77fd 
 
 # Duoshuo ShortName
 #duoshuo_shortname:
