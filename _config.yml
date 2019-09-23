@@ -330,20 +330,13 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-<<<<<<< HEAD
   qcode: http://ww1.sinaimg.cn/large/005UN5JVgy1g77ty8y5q3j30kw0r2q4b.jpg
   description: 欢迎添加我的微信，或者关注我的微信公众号Aurevoirsalut.
 
   
 reward_comment: 虽然我觉得没人会打赏，但是放上来吧，说不定呢！
 wechatpay: http://ww1.sinaimg.cn/large/005UN5JVgy1g77tytxlu2j30u00u0jsr.jpg
-=======
-  qcode: /assets/chenlu.jpg
-  description: 欢迎关注我的微信公众号Aurevoirsalut：
-  
-reward_comment: 虽然我觉得没人会打赏，但是放上来吧，说不定呢！
-wechatpay: /assets/wechat-reward-image.png
->>>>>>> parent of b44741c... version1.0.0.2
+
 
 
 
