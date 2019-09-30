@@ -119,7 +119,7 @@ index_with_subtitle: false
 menu:
   home: /
   about: /about/
-  #categories: /categories/
+  categories: /categories/
   archives: /archives/
   tags: /tags/
   #github: /github/
@@ -221,7 +221,6 @@ social:
     马蜂窝: http://www.mafengwo.cn/u/48964184.html
     Weibo: https://weibo.com/u/5419839115
     个人简历: https://chenjionglu.github.io/chenlu.github.io/%E9%99%88%E7%82%AF%E9%99%B8%E7%AE%80%E5%8E%86.pdf
-    timer: http://wuzijian.tk
 
 
 
@@ -504,7 +503,7 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
+  enable: true
   app_id: #<app_id>
   app_key: #<app_key>
 
