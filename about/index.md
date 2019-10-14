@@ -1,7 +1,5 @@
 ---
 title: About
-layout: page
-group:
 ---
 
 <meta name="referrer" content="never">

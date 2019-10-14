@@ -333,6 +333,7 @@ post_wordcount:
 wechat_subscriber:
   enabled: true
   qcode: http://ww1.sinaimg.cn/large/005UN5JVgy1g77ty8y5q3j30kw0r2q4b.jpg
+  http://ww1.sinaimg.cn/large/005UN5JVgy1g7xu6b32bkj30dw0dwdmh.jpg
   description: 欢迎添加我的微信，或者关注我的微信公众号Aurevoirsalut.
 
   
